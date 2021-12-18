@@ -39,7 +39,7 @@ const questions = [
         type: 'checkbox',
         name: 'licenses',
         message: 'Which licenses did you use to build your project?',
-        choices: ['option1', 'option 2', 'option 3', 'option 4', 'option 5']
+        choices: ['Apache', 'Boost', 'Eclipse', 'MIT', 'Mozilla']
     },
     {
         type: 'input',
