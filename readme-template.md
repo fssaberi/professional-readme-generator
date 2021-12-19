@@ -1,4 +1,4 @@
-# Greatest Project Ever
+# ReadMe demo
 
 ## Table of Contents
 
@@ -17,23 +17,23 @@
 ### -[questions](#questions)
 
 ## Description
-This is the greatest project ever.
+This is a demonstration of the readme generator.
 
 ## Installation
-Download the code
+Start with node index.js
 
 ## Usage
-There is no usage info
+There is no usage info, sorry.
 
 ## Contributing
-Github- fork, add, commit, push
+This is just a demo.
 
 ## Tests
-It works, thanks.
+This is just a demo.
 
 ## License
-MIT,Mozilla
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Apache
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Questions
 fssaberi
