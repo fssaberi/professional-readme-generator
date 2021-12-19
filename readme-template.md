@@ -1,4 +1,4 @@
-# Greatest Project
+# The Best Project Ever
 
 ## Table of Contents
 
@@ -17,24 +17,24 @@
 ### -[questions](#questions)
 
 ## Description
-This is the description of the greatest project ever.
+This is a description of the best project ever.
 
 ## Installation
 Download the code and start!
 
 ## Usage
-No thank you
+There's no usage information, sorry.
 
 ## Contributing
-Use git fork and then commit and push changes from there.
+In GitHub, fork and then commit and push updates.
 
 ## Tests
 It works, trust me.
 
 ## License
-option1
+Apache
 
 ## Questions
 fssaberi
 
-me@somewhere.com
+me
