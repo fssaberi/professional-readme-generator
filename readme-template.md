@@ -1,4 +1,4 @@
-# ReadMe demo
+# Readme demo
 
 ## Table of Contents
 
@@ -23,13 +23,13 @@ This is a demonstration of the readme generator.
 Start with node index.js
 
 ## Usage
-There is no usage info, sorry.
+this is a demo
 
 ## Contributing
-This is just a demo.
+this is a demo
 
 ## Tests
-This is just a demo.
+this is a demo
 
 ## License
 Apache
